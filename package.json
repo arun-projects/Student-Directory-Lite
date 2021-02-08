@@ -1,5 +1,5 @@
 {
-  "name": "student_directory",
+  "name": "student_directory_lite",
   "version": "1.0.0",
   "description": "Student directory application",
   "main": "index.js",
